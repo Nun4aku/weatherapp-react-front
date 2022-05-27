@@ -12,5 +12,5 @@ npm start <BR>
   использует AXIOS для запросов
 
   
-   Работает с беком: <BR>
+   <b>Работает с беком:</b> <BR>
   https://github.com/Nun4aku/weatherapp-php-back <BR>
