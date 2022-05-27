@@ -1,5 +1,8 @@
+<b>Запуск:</b><BR>
 npm i <BR>
 npm start <BR>
+  
+<b>Описание:</b><BR>
 
   Работает с беком: <BR>
   https://github.com/Nun4aku/weatherapp-php-back <BR>
